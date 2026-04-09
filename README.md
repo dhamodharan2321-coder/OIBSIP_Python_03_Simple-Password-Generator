@@ -73,10 +73,11 @@ python password_generator_gui.py
 ---
 
 ## 📸 Screenshots
+<img width="666" height="601" alt="Screenshot 2026-04-08 212407" src="https://github.com/user-attachments/assets/b1e94a2b-bbf0-40f3-a81a-5d170ad771ec" />
 
-<img width="666" height="601" alt="image" src="https://github.com/user-attachments/assets/7106316d-7146-42ae-be59-b6fe2d6aec8d" />
-<img width="670" height="597" alt="image" src="https://github.com/user-attachments/assets/828cf1b9-6fd8-4a1b-9f81-7e9c7c1c75df" />
-<img width="663" height="592" alt="image" src="https://github.com/user-attachments/assets/c23da57d-a59b-4610-ae21-4fc68fe45727" />
+<img width="670" height="598" alt="Screenshot 2026-04-08 212437" src="https://github.com/user-attachments/assets/7c8eee39-b15d-4aa2-b4fa-6d8110712abf" />
+<img width="664" height="593" alt="Screenshot 2026-04-08 212504" src="https://github.com/user-attachments/assets/1c9904d5-ba16-43a4-90db-5fbd0307381d" />
+
 
 ## 👨‍💻 Author
 
