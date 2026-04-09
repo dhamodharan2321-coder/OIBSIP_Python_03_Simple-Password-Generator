@@ -72,6 +72,12 @@ python password_generator_gui.py
 
 ---
 
+## 📸 Screenshots
+
+<img width="666" height="601" alt="image" src="https://github.com/user-attachments/assets/7106316d-7146-42ae-be59-b6fe2d6aec8d" />
+<img width="670" height="597" alt="image" src="https://github.com/user-attachments/assets/828cf1b9-6fd8-4a1b-9f81-7e9c7c1c75df" />
+<img width="663" height="592" alt="image" src="https://github.com/user-attachments/assets/c23da57d-a59b-4610-ae21-4fc68fe45727" />
+
 ## 👨‍💻 Author
 
 **Dhamodharan**  
